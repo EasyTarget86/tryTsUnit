@@ -3,4 +3,4 @@ tryTsUnit
 
 trying out tsUnit with Nodejs
 
-Just trying out the latest with tsUnit library.  
+Trying newest changes of TsUnit to see if my issues are fixed. 
